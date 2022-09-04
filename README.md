@@ -1,2 +1,7 @@
-# propaedeutikum1
-Unterrichtsmaterialien für Tag 1
+# Propädeutikum Tag 1
+
+Dieses Repository enthält alle relevanten Unterrichtsmaterialien für den ersten Tag.
+
+[Skript Tag 1](https://github.com/HSBA-Propaedeutikum/propaedeutikum1/blob/main/Propaedeutikum1.md)
+
+[Aufgaben]
