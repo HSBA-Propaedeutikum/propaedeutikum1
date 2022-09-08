@@ -1,3 +1,5 @@
+# Aufgaben 
+
 1. Benutze jeden mathematischen Operator in mindesten einer Konsolenausgabe. Speichere alle Ergebnisse in einer eigenen Variable und benutze verschiedene Arten, um die Variablen zu initialisieren.
 2. Initialisiere eine Konstante Variable `max` mit dem Wert 57. Initialisiere dann eine Variable `wert` mit `max - 13`. Zum Schluss deklariere die Variabel `bruchzahl` mit `actual / max` und gib das Ergebnis auf die Konsole aus.
 3. Führe den gegebenen Code aus: 
