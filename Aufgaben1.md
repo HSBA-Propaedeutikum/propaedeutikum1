@@ -1,7 +1,7 @@
 # Aufgaben 
 
 1. Benutze jeden mathematischen Operator in mindesten einer Konsolenausgabe. Speichere alle Ergebnisse in einer eigenen Variable und benutze verschiedene Arten, um die Variablen zu initialisieren.
-2. Initialisiere eine Konstante Variable `max` mit dem Wert 57. Initialisiere dann eine Variable `wert` mit `max - 13`. Zum Schluss deklariere die Variabel `bruchzahl` mit `actual / max` und gib das Ergebnis auf die Konsole aus.
+2. Initialisiere eine konstante Variable `max` mit dem Wert 57. Initialisiere dann eine Variable `wert` mit `max - 13`. Zum Schluss deklariere die Variable `bruchzahl` mit `actual / max` und gib das Ergebnis auf die Konsole aus.
 3. Führe den gegebenen Code aus: 
     
     ````    
@@ -10,7 +10,7 @@
     a = 10;
     console.log(a);
     ````
-    Was hat die erste Konsolenausgabe zu bedeuten? Als nächstes gib folgende Befehle ein. 
+    Was hat die erste Konsolenausgabe zu bedeuten? Gib nun folgende Befehle ein:
 
     ````    
     let a = 10 - "Bob";
@@ -24,4 +24,4 @@
     ````
 
 
-4. Betrachte das Ergebnis von in `0.1 + 0.2` in der Konsole. Was fällt dir auf? Woran könnte dieser Effekt liegen.
+4. Betrachte das Ergebnis von `0.1 + 0.2` in der Konsole. Was fällt dir auf? Woran könnte dieser Effekt liegen?
